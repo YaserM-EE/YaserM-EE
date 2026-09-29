@@ -1,6 +1,6 @@
 # Yaser Mahmoud
 
-Electrical engineering undergrad, year 2. I like building embedded stuff.
+Electrical engineering undergrad, year 2.
 
 ## What I do
 
